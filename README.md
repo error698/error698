@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error698&label=Profile%20views&color=0e75b6&style=flat" alt="error698" /> </p>
 
-- 🔭 I’m currently working on [Lottery System Using Blockchain](https://github.com/error698/Lottery-System-Using-Blockchain)
+- 🔭 I’m currently working on [Gesture-Hill-Climb-Racing](https://github.com/error698/Gesture-Hill-Climb-Racing)
 
 - 🌱 I’m currently learning **SQL, React.js, Node.js**
 
